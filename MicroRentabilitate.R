@@ -1,4 +1,4 @@
-#Pas 3 tema
+
 install.packages("moments")
 library("moments")
 install.packages("corrplot")
